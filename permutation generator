@@ -1,0 +1,24 @@
+def generate_stack_permutations(sequence):
+    def generate_permutations(stack, input_sequence, output_sequence):
+        if not stack and not input_sequence:
+            result.append(output_sequence)
+            return
+        
+        if stack:
+            # Pop from stack and add to the output sequence
+            generate_permutations(stack[:-1], input_sequence, output_sequence + [stack[-1]])
+        
+        if input_sequence:
+            # Push to stack from input sequence
+            generate_permutations(stack + [input_sequence[0]], input_sequence[1:], output_sequence)
+    
+    result = []
+    generate_permutations([], list(sequence), [])
+    return result
+
+# Example usage
+sequence = input("enter the sequence is :")
+print(sequence)
+permutations = generate_stack_permutations(sequence)
+for perm in permutations:
+    print("".join(perm))
