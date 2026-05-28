@@ -5,25 +5,35 @@ Data Analyst • AI/ML Engineer • Power BI Developer 🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Data+Analyst+%7C+AI%2FML+Engineer;Power+BI+Dashboard+Developer;Computer+Vision+%7C+Deep+Learning;Building+AI-Powered+Applications;Transforming+Data+Into+Insights+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Data+Analyst+%7C+AI%2FML+Engineer;Power+BI+Dashboard+Developer;Computer+Vision+%7C+Deep+Learning;Building+AI-Powered+Applications;Kaggle+Enthusiast+%7C+Researcher;Transforming+Data+Into+Insights+🚀" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 ## 🚀 About Me
 
 🎓 B.Tech Student specializing in **Data Science & Artificial Intelligence**  
+
 📊 Passionate about **Data Analytics, Machine Learning, Deep Learning & AI Systems**  
-🤖 Experienced in developing intelligent applications using **Python, TensorFlow, Flask & Power BI**  
+
+🤖 Experienced in building intelligent applications using **Python, TensorFlow, Flask & Power BI**  
+
 📈 Skilled in **EDA, Dashboard Development, Predictive Modeling & Computer Vision**  
-🌱 Currently exploring **Real-Time AI Systems, NLP & Azure AI**  
-🏆 Published 3 Research Papers in AI/ML & Smart Systems  
-⚡ IEEE Chairperson | Kaggle Enthusiast | SIH Participant  
+
+🌱 Exploring **Real-Time AI Systems, NLP, Azure AI & Intelligent Automation**  
+
+🏆 Published **3 Research Papers** in AI/ML & Smart Systems  
+
+⚡ **Top 20% Kaggle Ranker** in anomaly detection competition using CatBoost, XGBoost & SMOTE  
+
+👨‍💼 Chairperson at **IEEE Student Chapter, SRMU**  
 
 📫 **Email:** pranshuagrahari29@gmail.com  
-🌐 **LinkedIn:** www.linkedin.com/in/pranshu-agrahari956a37288  
+
+🌐 **LinkedIn:** https://linkedin.com/in/pranshu-agrahari956a37288  
+
 💻 **GitHub:** https://github.com/Pranshuagra  
 
 ---
@@ -32,7 +42,7 @@ Data Analyst • AI/ML Engineer • Power BI Developer 🚀
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/pranshu-agrahari956a37288/" target="_blank">
+<a href="https://linkedin.com/in/pranshu-agrahari956a37288" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -42,6 +52,10 @@ Data Analyst • AI/ML Engineer • Power BI Developer 🚀
 
 <a href="mailto:pranshuagrahari29@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 </p>
@@ -68,7 +82,7 @@ Data Analyst • AI/ML Engineer • Power BI Developer 🚀
 
 ---
 
-### 🤖 AI / ML
+### 🤖 AI / ML / Deep Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,flask" />
@@ -99,10 +113,15 @@ Data Analyst • AI/ML Engineer • Power BI Developer 🚀
 
 ## 🌾 Smart Farmer Assistant – AI Powered Agricultural System
 
-✔️ AI-powered platform for crop recommendation & disease detection  
-✔️ Implemented CNN, ResNet & MobileNetV2 models  
-✔️ Integrated multilingual chatbot & voice-enabled assistant  
-✔️ Developed using Flask, NLP & Deep Learning  
+✔️ Developed an integrated AI-powered agricultural platform  
+
+✔️ Implemented CNN, ResNet & MobileNetV2 models for disease prediction  
+
+✔️ Built ML-based crop recommendation system using NPK & weather data  
+
+✔️ Integrated multilingual chatbot & voice-enabled assistant using NLP  
+
+✔️ Flask backend with REST APIs for real-time assistance  
 
 🔗 **Project Link:**  
 👉 https://github.com/Pranshuagra/Farmer_assistant
@@ -112,9 +131,12 @@ Data Analyst • AI/ML Engineer • Power BI Developer 🚀
 ## 🎥 Human Pose & Gesture Recognition System
 
 ✔️ Real-time gesture recognition using OpenCV & LSTM  
+
 ✔️ Automated alert system with geolocation tracking  
-✔️ Real-time visualization & surveillance monitoring  
-✔️ Built custom gesture dataset for prediction system  
+
+✔️ Real-time surveillance & abnormal activity detection  
+
+✔️ Built custom sequential gesture dataset  
 
 🔗 **Project Link:**  
 👉 https://github.com/Pranshuagra/Gesture-Recognition-with-Real-Time-Alert-System
@@ -123,31 +145,44 @@ Data Analyst • AI/ML Engineer • Power BI Developer 🚀
 
 ## 📊 Blinkit Sales & Customer Behavior Analysis
 
-✔️ Performed customer behavior & sales trend analysis  
-✔️ Built SQL insights & interactive Power BI dashboard  
-✔️ Identified revenue drivers & outlet performance  
-✔️ Enabled business-driven inventory optimization  
+✔️ Performed sales trend & customer behavior analysis  
+
+✔️ Developed SQL insights & Power BI dashboard  
+
+✔️ Identified revenue drivers & outlet performance trends  
+
+✔️ Enabled inventory optimization recommendations  
 
 ---
 
 ## 🛒 Customer Shopping Behavior Analysis
 
 ✔️ Analyzed 3900+ customer transactions  
-✔️ Built Power BI dashboard & SQL analytics  
+
+✔️ Developed SQL-driven customer insights  
+
+✔️ Built interactive Power BI dashboard  
+
 ✔️ Identified repeat buyers & customer segmentation  
-✔️ Improved targeted marketing strategies  
 
 🔗 **Project Link:**  
 👉 https://github.com/Pranshuagra/Customer_behavior_analysis
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievements & Leadership
 
 🏅 2nd Position – Smart India Hackathon (SIH) 2024 Inter-Round  
+
 🏅 2nd Runner-Up – Dragon Pitch Ideathon, IIT BHU 2023  
-🏅 Ranked in Top 20% on Kaggle (AnaVerse 2.0_N Competition)  
+
+🏅 Ranked in **Top 20% on Kaggle** (AnaVerse 2.0_N Competition)  
+
 🏅 Chairperson – IEEE Student Chapter, SRMU  
+
+🏅 Convener – Viveka: The Intelligence 4.0 Techfest  
+
+🏅 University Ambassador – NEP SAARTHI, Ministry of Education  
 
 ---
 
@@ -173,6 +208,20 @@ Data Analyst • AI/ML Engineer • Power BI Developer 🚀
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshuagra&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📊 Kaggle Stats
+
+<p align="center">
+<a href="https://www.kaggle.com/">
+<img src="https://img.shields.io/badge/Kaggle-Top%2020%25-blue?style=for-the-badge&logo=kaggle"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Pranshuagra&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
