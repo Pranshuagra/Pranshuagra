@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Pranshu Agrahari</h1>
 
 <h3 align="center">
-Data Analyst • AI/ML Engineer • Power BI Developer 🚀
+Data Analyst • AI/ML Engineer • Python developer 🚀
 </h3>
 
 <p align="center">
